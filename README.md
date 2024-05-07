@@ -14,3 +14,8 @@
 
 * Used RMSE, MAPE, MBE to assess model performance with upto 97% and 36% accuracies for ANN and Random Forest
 * Made profits of upto 27% and 6% using ANN and Random Forest.
+
+### Files: 
+* Stock Closing Price Prediction using Machine Learning Techniques.pdf - research paper that we have simulated.
+* Extension 1.ipynb - Jupyter notebook that contains the workings of an extended version of our research paper using data from 5th April 2009 to 5th April 2022. (Attempts were made to obtain pre-2009 data, but this was not available) The original paper uses data from 5th April 2009 to 5th April 2019.
+* Paper Replication and Extension 2.ipynb - Jupyter notebook containing the workings of the replication of the research paper along with the implementation of a basic trading strategy using obtained predictions.
